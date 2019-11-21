@@ -10,9 +10,9 @@
         <name>TEST</name>
         <url>http://www.test.com</url>
     </organization>
-    <build>
+    <build> 
 <plugins>
-
+<!--Fixing build issue AB#{30} -->
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-compiler-plugin</artifactId>
