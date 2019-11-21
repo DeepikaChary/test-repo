@@ -14,4 +14,4 @@ jobs:
       with:
         java-version: 1.11
     - name: Build with Maven
-      run: mvn clen install --file pom.xml
+      run: mvn clean install --file pom.xml
