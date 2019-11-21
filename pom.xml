@@ -12,7 +12,7 @@
     </organization>
     <build> 
 <plugins>
-<!--Fixing build issue AB#{30} -->
+    
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-compiler-plugin</artifactId>
