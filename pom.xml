@@ -11,7 +11,7 @@
         <url>http://www.test.com</url>
     </organization>
     <build>
-
+<!--Added new line to check merge conflicts  --->
 <plugins>
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
