@@ -12,7 +12,6 @@
     </organization>
     <build> 
 <plugins>
-<!-- F1 feature  -->    
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-compiler-plugin</artifactId>
