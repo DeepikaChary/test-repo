@@ -1,7 +1,8 @@
 ---
 Name:
-Summary: 
+about: 
 ---
+** Summary : **
 **Steps to replcate**
 1. Go to '...'
 2. Click on '....'
