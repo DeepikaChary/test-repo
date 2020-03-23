@@ -1,6 +1,6 @@
 ---
 Name: Issue name 
-about: About issue
+About: About issue
 ---
 Summary : 
 ---
