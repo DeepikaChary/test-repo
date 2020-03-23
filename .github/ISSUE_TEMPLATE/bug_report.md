@@ -1,18 +1,19 @@
 ---
-Name:
-about: 
+Name: Artifact Iusse
+about: Issue in updating artifact
 ---
-** Summary : **
-**Steps to replcate**
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+** Summary : Issue in updating artifact**
+---
+** Steps to replcate **
+1. Step1
+2. Step2
+3. Step3
+4. Here is the error
 
 **Expected Result**
-A clear and concise description of what you expected to happen.
 
-**Actusl Result**
+
+**Actual Result**
 A clear and concise description of what you expected to happen.
 
 **Screenshots/Additional info**
